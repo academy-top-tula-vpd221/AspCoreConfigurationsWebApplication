@@ -1,0 +1,10 @@
+{
+  "employee": {
+    "info": {
+      "name": "Bobby",
+      "age": "25"
+    },
+    "position": "Manager"
+  },
+  "company": "Yandex"
+}
